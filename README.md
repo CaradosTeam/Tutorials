@@ -1,2 +1,2 @@
 # Tutorials
-Tutorials for programming 
+Tutorials about programming 
